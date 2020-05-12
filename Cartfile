@@ -1,0 +1,21 @@
+binary "https://www.mapbox.com/ios-sdk/MapboxAccounts.json" ~> 2.2
+
+binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMaps-iOS-SDK.json" ~> 0.1.0
+
+binary "https://www.mapbox.com/ios-sdk/MapboxNavigationNative.json" ~> 6.2.1
+
+binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsDirections.json" ~> 0.1.0
+
+github "mapbox/turf-swift" ~> 0.3
+
+binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsMobileEvents.json" ~> 0.1.0
+
+github "ceeK/Solar" ~> 2.1.0
+
+github "mapbox/mapbox-speech-swift" ~> 0.3.0
+
+binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsCoreNavigation.json" ~> 0.1.0
+
+binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsNavigation.json" ~> 0.1.0
+
+github "raphaelmor/Polyline" ~> 4.2
