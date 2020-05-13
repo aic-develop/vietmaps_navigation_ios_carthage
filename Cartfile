@@ -19,3 +19,5 @@ binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/mas
 binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsNavigation.json" ~> 0.1.0
 
 github "raphaelmor/Polyline" ~> 4.2
+
+binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsGeocoder.json" ~> 0.1.0
