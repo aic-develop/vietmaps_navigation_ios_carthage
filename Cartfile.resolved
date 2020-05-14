@@ -3,7 +3,7 @@ binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/mas
 binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsDirections.json" "1.0.0"
 binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsGeocoder.json" "1.0.0"
 binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsMobileEvents.json" "0.1.0"
-binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsNavigation.json" "1.0.0"
+binary "https://raw.githubusercontent.com/aic-develop/vietmaps_resources_ios/master/VietMapsNavigation.json" "1.0.1"
 binary "https://www.mapbox.com/ios-sdk/MapboxAccounts.json" "2.2.0"
 binary "https://www.mapbox.com/ios-sdk/MapboxNavigationNative.json" "6.2.1"
 github "ceeK/Solar" "2.1.0"
